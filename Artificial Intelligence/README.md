@@ -1,1 +1,1 @@
-Eseguire il notebook.
+Eseguire il file Magic_Cube.
