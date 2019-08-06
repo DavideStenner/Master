@@ -1,6 +1,6 @@
 # Semantic Technologies
 
-Il progetto si occupa di definire un'applicazione che scaricati i dati da wikipedia tramite sparql e dopo aver definito un'ontologia apposita, permetta la ricerca di opere d'arte per nome e per vicinanza.
+Il progetto si occupa di definire un'applicazione che scaricati i dati da wikipedia tramite sparql e dopo aver definito un'ontologia apposita, permetta la ricerca di opere d'arte per nome e per vicinanza,mostrando le informazioni principali.
 
 ## Creazione del Grafo
 
